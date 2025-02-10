@@ -5,17 +5,17 @@ To support Data Custodians in implementing and customizing the Josua solution, w
 ### User Interface Documentation ###
 
 Designed for researchers, the User Interface serves as a central workspace for securely analyzing sensitive data. The documentation includes:
-	•	Navigation Structure: A guide to the layout, menus, and core functions, enabling researchers to easily perform their tasks.
-	•	Interactions: Instructions on accessing datasets, executing analysis scripts, and handling security features, such as watermarked results.
+* Navigation Structure: A guide to the layout, menus, and core functions, enabling researchers to easily perform their tasks.
+* Interactions: Instructions on accessing datasets, executing analysis scripts, and handling security features, such as watermarked results.
 
 This interface combines user-friendliness with strict data protection measures to ensure a smooth and secure research workflow.
 
 ### Operator Interface Documentation ##
 
 The Operator Interface is tailored for operators responsible for managing and monitoring the Josua system. Key areas covered include:
-	•	User and Role Management: Instructions for creating and managing user roles with customizable access permissions.
-	•	System Configuration: Guidance on setting up the Josua components, integrating datasets, and configuring security measures.
-	•	Monitoring and Logging: Tools to oversee system activity, data access, and overall platform performance.
+* User and Role Management: Instructions for creating and managing user roles with customizable access permissions.
+* System Configuration: Guidance on setting up the Josua components, integrating datasets, and configuring security measures.
+* Monitoring and Logging: Tools to oversee system activity, data access, and overall platform performance.
 
 This interface ensures full control over the platform while offering flexibility to meet individual requirements.
 
