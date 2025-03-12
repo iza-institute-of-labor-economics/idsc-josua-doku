@@ -1,4 +1,4 @@
-![Alt-Text](./User%20Interface/images/iza__light.png "IZA Logo")
+![Alt-Text](./User%20Interface/images/IZA_Institute_light_white.png "IZA Logo")
 
 ## About ##
 The Josua documentation provides detailed guidance for both researchers and operators, covering the implementation, customization, and management of the platform. It supports a secure and user-friendly data infrastructure, enabling flexible control for operators and efficient analysis for researchers.
