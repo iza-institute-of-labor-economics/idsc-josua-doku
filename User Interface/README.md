@@ -1,4 +1,4 @@
-![Alt-Text](./images/iza__light.png "IZA Logo")
+![Alt-Text](./images/IZA_Institute_light_white.png "IZA Logo")
 
 # Documentation on using  the Job Submission Application (Josua) from the Research Data Center of IZA (IDSC)
 
